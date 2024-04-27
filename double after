@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Amazon Electronics Store</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header tabindex="0">
+  <!-- Navigation, search bar, and login/signup -->
+</header>
+
+<main>
+  <!-- Product Catalog -->
+  <section id="product-catalog" tabindex="0">
+    <!-- Products will be loaded here -->
+  </section>
+  
+  <!-- Filter and Sorting Options -->
+  <aside id="filters" tabindex="0">
+    <!-- Filter options like brand, price, rating -->
+  </aside>
+  
+  <!-- Review and Rating Section -->
+  <section id="reviews" tabindex="0">
+    <!-- User reviews and ratings -->
+  </section>
+  
+  <!-- Subscription for Customers -->
+  <section id="subscription" tabindex="0">
+    <!-- Subscription form or information -->
+  </section>
+  
+  <!-- Suggested Products based on browsing and purchase history -->
+  <section id="suggested-products" tabindex="0">
+    <!-- Suggested products will be displayed here -->
+  </section>
+  
+  <!-- Gaming Zone -->
+  <section id="gaming-zone" tabindex="0">
+    <!-- Information or links to games -->
+  </section>
+  
+  <!-- Special Offers -->
+  <section id="special-offers" tabindex="0">
+    <!-- Offers for frequent buyers -->
+  </section>  
+</main>
+
+<footer tabindex="0">
+  <!-- Footer content -->
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
